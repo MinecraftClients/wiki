@@ -13,7 +13,7 @@ Dive in and discover the possibilities! 🎮💡
 |-----|-----|-----|
 | [Rise](https://riseclient.com/) | 1.8 ~ 1.19.4 | $29 |
 | [Vape V4](https://www.vape.gg/) | 1.7.10, 1.8.9, 1.12.2, 1.16.5 | $34.99 |
-| [Vape Lite](https://www.vape.gg/) | 1.7.10, 1.8.9, 1.12.2 |
+| [Vape Lite](https://www.vape.gg/) | 1.7.10, 1.8.9, 1.12.2 | $9.99/mo |
 | [Astolfo](https://spezz.exchange/store/store/product/1-astolfo-client/) | 1.8 ~ 1.18 | $49.71 |
 | [Rusher H4x](https://rusherhack.org/) | 1.12.2 ~ 1.20.1 | $19.99 |
 | [Entropy](https://entropy.club/) | 1.7.10, 1.8.9 | $10/mo or $50/lifetime |
